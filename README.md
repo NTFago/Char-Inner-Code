@@ -13,6 +13,6 @@
 ## 下载
 **exe文件仅支持Windows系统，可下载Python和源码在其它平台上运行**
 
-exe文件：[点这里](https://github.com/NTFago/Char-Inner-Code/tree/main/dist)
+exe文件：[点这里](https://github.com/NTFago/Char-Inner-Code/releases/tag/Inner-Code)
 
 [蓝奏云外链](https://wwd.lanzoub.com/ixSD8086wg8b)&emsp;&emsp;&emsp;&emsp;**```密码：bhqb```**
